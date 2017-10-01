@@ -306,6 +306,7 @@ def lazy_sum(*arg):
 ##jiushi zheyang nongde
 我 就是 喜欢 这么 做哦~
 生生世世1234665878斤斤计较
+fall in love at first sight.
         
 
 
