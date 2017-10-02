@@ -558,4 +558,6 @@ public class SignButtonsView extends RelativeLayout {
     public void setOnSignListener(clickSignListener listener){
         this.listener = listener;
     }
+	
+	//我们现在就在这里加一个注释
 }
