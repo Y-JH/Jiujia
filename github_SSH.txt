@@ -1,0 +1,6 @@
+在Github上：
+账户：yuannunhua@gmail.com
+密码；rose123456
+SSH-KEY的公钥和密钥都在本机，地址：C:\Users\yuanjunhua\.ssh
+然后给git设置的全局名称什么的用的是 yuannunhua和yuannunhua@gmail.com
+南华经上说：巧者劳，智者忧，无能者无所求；
